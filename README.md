@@ -1,4 +1,16 @@
-![Screenshot 2024-08-22 133830](https://github.com/user-attachments/assets/d408df52-c444-4b55-8e75-2fc5207c4abb)## Project Overview: Enhanced Weather Forecast App
+Name: PRATEEK CHATURVEDI
+
+Company: CODTECH IT SOLUTIONS
+
+ID: CT08DS6420
+
+DOMAIN: WEB DEVELOPMENT
+
+DURATION: AUGUST TO SEPTEMBER 2024
+
+MENTOR: MUZAMMIL AHMED
+
+## Project Overview: Enhanced Weather Forecast App
 
 Objective:
 This project is about creating a weather forecast app that helps users easily check the current weather and get a daily forecast for their selected city. The aim is to provide a simple, user-friendly experience while delivering accurate, real-time weather data.
